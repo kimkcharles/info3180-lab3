@@ -1,3 +1,19 @@
 body {
     padding-top: 5rem;
 }
+
+.require{
+    color: red;
+}
+
+.flashes li {
+  list-style: none; 
+  background-color: aliceblue;
+  border:blueviolet solid 2px;
+  margin: 0px;
+  padding: 2px;
+}
+
+.flashes{
+    padding: 0px;
+}
