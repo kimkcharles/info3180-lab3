@@ -10,6 +10,7 @@ from flask import render_template, request, redirect, url_for, flash
 from app import mail
 from app.forms import ContactForm
 from flask_mail import Message
+
 # from forms import ContactForm
 
 

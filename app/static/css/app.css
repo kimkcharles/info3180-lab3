@@ -9,11 +9,16 @@ body {
 .flashes li {
   list-style: none; 
   background-color: aliceblue;
-  border:blueviolet solid 2px;
+  border:#ff66cc solid 3px;
   margin: 0px;
+  margin-bottom:5px;
   padding: 2px;
 }
 
 .flashes{
     padding: 0px;
+}
+
+textarea#message.form-control{
+  height: 200px;
 }
